@@ -22,6 +22,7 @@ Soy **Vicente Jesús Farías Vera**, desarrollador full stack de Chile. Me gusta
 **basados en microservicios**: APIs REST con Spring Boot, mensajería con RabbitMQ, BFFs que orquestan
 servicios y frontends que los consumen.
 
+- Actualmente en práctica de **Soporte TI en BUK**, donde desarrollé una plataforma de asignación de equipos con **Ruby on Rails**, PostgreSQL y Docker.
 - Últimamente trabajando en **arquitecturas orientadas a eventos** (DLQ, retry con backoff, ACK manual).
 - Aprendiendo más de **cloud en AWS** (EC2, API Gateway, RDS) y seguridad con **OAuth2 / JWT**.
 - También hago apps móviles con **Kotlin + Jetpack Compose** (offline first con Room).
@@ -34,13 +35,38 @@ servicios y frontends que los consumen.
 <div align="center">
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,rails&theme=dark" />
 
 **Frontend y móvil**<br/>
 <img src="https://skillicons.dev/icons?i=react,angular,vite,js,ts,kotlin,androidstudio&theme=dark" />
 
 **Datos, mensajería y DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,rabbitmq,docker,aws,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,rabbitmq,docker,aws,git,github,postman&theme=dark" />
+
+</div>
+
+---
+
+### Certificaciones
+
+<div align="center">
+
+**Microsoft**<br/>
+<img src="https://img.shields.io/badge/AZ--900_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/DP--900_Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+**Python Institute**<br/>
+<img src="https://img.shields.io/badge/PCEP_Python_Programmer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+**CertiProf**<br/>
+<a href="https://www.credly.com/badges/0271e753-9b6c-4a74-89ed-22d2c17f2828/public_url"><img src="https://img.shields.io/badge/CAIEC_AI_Expert-1e3a8a?style=for-the-badge&logo=credly&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/18098545-8798-4d87-b0fc-7709e64d2910/public_url"><img src="https://img.shields.io/badge/CEHPC_Ethical_Hacking-1e3a8a?style=for-the-badge&logo=credly&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/LCSPC_Lead_Cybersecurity-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSFPC_Cybersecurity-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CAPC_Cybersecurity_Awareness-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AIRMPC_AI_Risk_Manager-06b6d4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GAIPC_Generative_AI-06b6d4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEPC_DevOps_Essentials-0e7490?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SFPC_Scrum_Foundation-0e7490?style=for-the-badge" />
 
 </div>
 
@@ -80,9 +106,7 @@ servicios y frontends que los consumen.
 ### Contacto
 
 <a href="https://github.com/VicenteJFV"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- Agrega tu LinkedIn y correo cambiando TU_USUARIO / TU_CORREO -->
-<a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vicentefariasv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
 
