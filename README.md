@@ -61,12 +61,15 @@ servicios y frontends que los consumen.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VicenteJFV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=es" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteJFV&layout=compact&hide_border=true&theme=tokyonight&locale=es&langs_count=8" />
-
 <img src="https://streak-stats.demolab.com?user=VicenteJFV&theme=tokyonight&hide_border=true&locale=es" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VicenteJFV&theme=tokyo-night&hide_border=true&area=true" />
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VicenteJFV/VicenteJFV/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VicenteJFV/VicenteJFV/output/github-snake.svg" />
+  <img alt="Contribuciones" src="https://raw.githubusercontent.com/VicenteJFV/VicenteJFV/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
