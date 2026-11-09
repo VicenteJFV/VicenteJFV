@@ -8,28 +8,28 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍-Chile-1e3a8a?style=flat-square" />
-<img src="https://img.shields.io/badge/🎓-Duoc%20UC-06b6d4?style=flat-square" />
+<img src="https://img.shields.io/badge/Ubicación-Chile-1e3a8a?style=flat-square" />
+<img src="https://img.shields.io/badge/Estudios-Duoc%20UC-06b6d4?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=VicenteJFV&style=flat-square&color=0f172a&label=visitas" />
 
 </div>
 
 ---
 
-### 👋 Sobre mí
+### Sobre mí
 
 Soy **Vicente Jesús Farías Vera**, desarrollador full stack de Chile. Me gusta diseñar sistemas
 **basados en microservicios**: APIs REST con Spring Boot, mensajería con RabbitMQ, BFFs que orquestan
 servicios y frontends que los consumen.
 
-- 🔭 Últimamente trabajando en **arquitecturas orientadas a eventos** (DLQ, retry con backoff, ACK manual).
-- 🌱 Aprendiendo más de **cloud en AWS** (EC2, API Gateway, RDS) y seguridad con **OAuth2 / JWT**.
-- 📱 También hago apps móviles con **Kotlin + Jetpack Compose** (offline first con Room).
-- 💬 Pregúntame sobre Spring Boot, RabbitMQ o React.
+- Últimamente trabajando en **arquitecturas orientadas a eventos** (DLQ, retry con backoff, ACK manual).
+- Aprendiendo más de **cloud en AWS** (EC2, API Gateway, RDS) y seguridad con **OAuth2 / JWT**.
+- También hago apps móviles con **Kotlin + Jetpack Compose** (offline first con Room).
+- Pregúntame sobre Spring Boot, RabbitMQ o React.
 
 ---
 
-### 🛠️ Tecnologías
+### Tecnologías
 
 <div align="center">
 
@@ -46,7 +46,7 @@ servicios y frontends que los consumen.
 
 ---
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -57,7 +57,7 @@ servicios y frontends que los consumen.
 
 ---
 
-### 📊 Estadísticas
+### Estadísticas
 
 <div align="center">
 
@@ -74,7 +74,7 @@ servicios y frontends que los consumen.
 
 <div align="center">
 
-### 📫 Contacto
+### Contacto
 
 <a href="https://github.com/VicenteJFV"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <!-- Agrega tu LinkedIn y correo cambiando TU_USUARIO / TU_CORREO -->
