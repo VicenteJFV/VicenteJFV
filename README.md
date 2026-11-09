@@ -1,0 +1,86 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=180&section=header&text=Vicente%20Far%C3%ADas&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Microservicios%20%C2%B7%20Chile&descAlignY=58&descSize=16" width="100%"/>
+
+<a href="https://github.com/VicenteJFV">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+Java+21+en+el+backend;React+y+Angular+en+el+frontend;Kotlin+%2B+Jetpack+Compose+en+m%C3%B3vil;RabbitMQ%2C+Docker+y+AWS+para+desplegar" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/📍-Chile-1e3a8a?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓-Duoc%20UC-06b6d4?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=VicenteJFV&style=flat-square&color=0f172a&label=visitas" />
+
+</div>
+
+---
+
+### 👋 Sobre mí
+
+Soy **Vicente Jesús Farías Vera**, desarrollador full stack de Chile. Me gusta diseñar sistemas
+**basados en microservicios**: APIs REST con Spring Boot, mensajería con RabbitMQ, BFFs que orquestan
+servicios y frontends que los consumen.
+
+- 🔭 Últimamente trabajando en **arquitecturas orientadas a eventos** (DLQ, retry con backoff, ACK manual).
+- 🌱 Aprendiendo más de **cloud en AWS** (EC2, API Gateway, RDS) y seguridad con **OAuth2 / JWT**.
+- 📱 También hago apps móviles con **Kotlin + Jetpack Compose** (offline first con Room).
+- 💬 Pregúntame sobre Spring Boot, RabbitMQ o React.
+
+---
+
+### 🛠️ Tecnologías
+
+<div align="center">
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python&theme=dark" />
+
+**Frontend y móvil**<br/>
+<img src="https://skillicons.dev/icons?i=react,angular,vite,js,ts,kotlin,androidstudio&theme=dark" />
+
+**Datos, mensajería y DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,rabbitmq,docker,aws,git,github,postman&theme=dark" />
+
+</div>
+
+---
+
+### 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**Pedidos360**](https://github.com/VicenteJFV/pedidos360-ep2) | Plataforma de pedidos con microservicios (catálogo, órdenes, notificaciones), BFF, clúster RabbitMQ y despliegue en AWS. | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| [**Sistema resiliente de órdenes**](https://github.com/VicenteJFV/rabbitmq-api-ordenes) | API con DLX/DLQ, TTL, retry + backoff, ACK manual y dashboard. Con su [frontend en Angular](https://github.com/VicenteJFV/rabbitmq-front-angular-ordenes). | ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [**MediFlow**](https://github.com/VicenteJFV/mediflow-front) | Portal del paciente para salud digital: frontend React, [BFF en Express](https://github.com/VicenteJFV/mediflow-bff) y microservicios de HCE y laboratorios. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| [**Level-Up Mobile**](https://github.com/VicenteJFV/Level-Up-Mobile) | E-commerce gamer offline first con MVVM y Clean Architecture. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
+
+---
+
+### 📊 Estadísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VicenteJFV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=es" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteJFV&layout=compact&hide_border=true&theme=tokyonight&locale=es&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=VicenteJFV&theme=tokyonight&hide_border=true&locale=es" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VicenteJFV&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Contacto
+
+<a href="https://github.com/VicenteJFV"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- Agrega tu LinkedIn y correo cambiando TU_USUARIO / TU_CORREO -->
+<a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
